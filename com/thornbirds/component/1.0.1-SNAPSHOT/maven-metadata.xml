@@ -2,13 +2,12 @@
 <metadata>
   <groupId>com.thornbirds</groupId>
   <artifactId>component</artifactId>
+  <version>1.0.1-SNAPSHOT</version>
   <versioning>
-    <release>1.0.1-snapshot</release>
-    <versions>
-      <version>1.0.0</version>
-      <version>1.0.1-snapshot</version>
-      <version>1.0.1-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20171118.113641</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20171118113641</lastUpdated>
   </versioning>
 </metadata>
