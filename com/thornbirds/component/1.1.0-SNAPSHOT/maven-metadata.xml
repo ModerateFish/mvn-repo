@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.thornbirds</groupId>
+  <artifactId>component</artifactId>
+  <version>1.1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20211117.153050</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20211117153050</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.1.0-20211117.153050-1</value>
+        <updated>20211117153050</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1.0-20211117.153050-1</value>
+        <updated>20211117153050</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.1.0-20211117.153050-1</value>
+        <updated>20211117153050</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>1.1.0-20211117.153050-1</value>
+        <updated>20211117153050</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
